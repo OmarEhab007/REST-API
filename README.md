@@ -23,8 +23,6 @@
 
 
 # Deployment
-
-## What will we use
 * Docker (image)
 * docker-compose (container)
 * Caddy - Web server
